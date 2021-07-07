@@ -1,0 +1,19 @@
+{
+    "name": "TableroKanban",
+    "short_name": "TableroKanban",
+    "description": "Bienvenidos a TableroKanban, Espero te sirva para organizarte",
+    "background_color": "#2B2B2B",
+    "theme_color": "#C997C6",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-AR",
+    "icons": [
+      {
+        "src": "./logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
